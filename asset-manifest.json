@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/indian-caterings/static/css/main.073c9b0a.css",
-    "main.js": "/indian-caterings/static/js/main.7db8c639.js",
+    "main.css": "/indian-caterings/static/css/main.00c0f591.css",
+    "main.js": "/indian-caterings/static/js/main.b9a6ae1c.js",
     "index.html": "/indian-caterings/index.html",
-    "main.073c9b0a.css.map": "/indian-caterings/static/css/main.073c9b0a.css.map",
-    "main.7db8c639.js.map": "/indian-caterings/static/js/main.7db8c639.js.map"
+    "main.00c0f591.css.map": "/indian-caterings/static/css/main.00c0f591.css.map",
+    "main.b9a6ae1c.js.map": "/indian-caterings/static/js/main.b9a6ae1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7db8c639.js"
+    "static/css/main.00c0f591.css",
+    "static/js/main.b9a6ae1c.js"
   ]
 }
