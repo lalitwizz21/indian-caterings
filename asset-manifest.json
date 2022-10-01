@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/indian-caterings/static/css/main.073c9b0a.css",
+    "main.js": "/indian-caterings/static/js/main.7db8c639.js",
+    "index.html": "/indian-caterings/index.html",
+    "main.073c9b0a.css.map": "/indian-caterings/static/css/main.073c9b0a.css.map",
+    "main.7db8c639.js.map": "/indian-caterings/static/js/main.7db8c639.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7db8c639.js"
+  ]
+}
