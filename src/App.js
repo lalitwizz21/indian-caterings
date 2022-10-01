@@ -1,11 +1,12 @@
 import './App.css';
+import LoginButton from './components/Login';
+import LogoutButton from './components/Logout';
 
 function App() {
   return (
     <div className="App">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+      <LoginButton />
+      <LogoutButton />
     </div>
   );
 }
