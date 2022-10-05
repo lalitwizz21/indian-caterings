@@ -1,13 +1,15 @@
 {
-  "files": {
-    "main.css": "/indian-caterings/static/css/main.073c9b0a.css",
-    "main.js": "/indian-caterings/static/js/main.7db8c639.js",
-    "index.html": "/indian-caterings/index.html",
-    "main.073c9b0a.css.map": "/indian-caterings/static/css/main.073c9b0a.css.map",
-    "main.7db8c639.js.map": "/indian-caterings/static/js/main.7db8c639.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7db8c639.js"
-  ]
+  "main.css": "/indian-caterings/static/css/main.75b4b250.chunk.css",
+  "main.js": "/indian-caterings/static/js/main.fcc7dc01.chunk.js",
+  "main.js.map": "/indian-caterings/static/js/main.fcc7dc01.chunk.js.map",
+  "static/js/1.2988c89f.chunk.js": "/indian-caterings/static/js/1.2988c89f.chunk.js",
+  "static/js/1.2988c89f.chunk.js.map": "/indian-caterings/static/js/1.2988c89f.chunk.js.map",
+  "runtime~main.js": "/indian-caterings/static/js/runtime~main.129c1388.js",
+  "runtime~main.js.map": "/indian-caterings/static/js/runtime~main.129c1388.js.map",
+  "static/media/hamburger.svg": "/indian-caterings/static/media/hamburger.042e5ec0.svg",
+  "static/media/close.svg": "/indian-caterings/static/media/close.09275fb3.svg",
+  "static/css/main.75b4b250.chunk.css.map": "/indian-caterings/static/css/main.75b4b250.chunk.css.map",
+  "index.html": "/indian-caterings/index.html",
+  "precache-manifest.2c5e8f86ba2710d2dd05afd1c156b633.js": "/indian-caterings/precache-manifest.2c5e8f86ba2710d2dd05afd1c156b633.js",
+  "service-worker.js": "/indian-caterings/service-worker.js"
 }
